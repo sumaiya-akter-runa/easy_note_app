@@ -6,7 +6,7 @@ A new Flutter project.
 ![img](assets/images/img3.jpg)
 ![img](assets/images/img4.jpg)
 ![img](assets/images/img5.jpg)
-![img](assets/images/img6.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
